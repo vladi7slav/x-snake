@@ -1,0 +1,33 @@
+<svg width="208" height="208" viewBox="0 0 208 208" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d_430_4)">
+<rect x="4" width="200" height="200" rx="2" fill="#67E852"/>
+</g>
+<rect x="122.5" y="130.75" width="33" height="38.5" fill="url(#pattern0)"/>
+<rect x="43.9999" y="34.0001" width="74" height="30" fill="#C0472C"/>
+<rect x="154" y="56.0001" width="34" height="30" transform="rotate(90 154 56.0001)" fill="#C0472C"/>
+<rect x="117" y="34" width="37" height="30" fill="#C0472C"/>
+<rect x="74" y="34.0001" width="74" height="30" transform="rotate(90 74 34.0001)" fill="#C0472C"/>
+<rect x="74" y="34.0001" width="74" height="30" transform="rotate(90 74 34.0001)" fill="#C0472C"/>
+<rect x="74" y="108" width="70" height="30" transform="rotate(-180 74 108)" fill="#C0472C"/>
+<rect x="160" y="71.0001" width="46" height="42" transform="rotate(90 160 71.0001)" fill="#C0472C"/>
+<rect x="154.087" y="99.2642" width="10" height="10" transform="rotate(90.5043 154.087 99.2642)" fill="#D9E9D6"/>
+<rect x="134.088" y="99.0881" width="10" height="10" transform="rotate(90.5043 134.088 99.0881)" fill="#D9E9D6"/>
+<rect x="130.053" y="103.053" width="4" height="4" transform="rotate(90.5043 130.053 103.053)" fill="black"/>
+<path d="M150.052 103.229L150.017 107.229L146.017 107.193L146.052 103.194L150.052 103.229Z" fill="black"/>
+<defs>
+<filter id="filter0_d_430_4" x="0" y="0" width="208" height="208" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_430_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_430_4" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_430_4" transform="scale(0.0833333 0.0714286)"/>
+</pattern>
+<image id="image0_430_4" width="12" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAAAAXNSR0IArs4c6QAAAL5JREFUKJFjYEADWfsM/qOLIQMmdMUPV/9ncNWwwamJEZsND1f/Z/i1n5dh940jGPIoApdj0/8zMDAw6C6eyeiqYfO/z1SbAcZH0QBTSAjoLp7JyIismFNPhYGBgYHh+6U7cEXPnt9lkJJUhvNZkBWjK0RnP311F6EBphhZITaAEqz4FD99dRdTAzEAHkrEmJ506T4jC05VSAoxbGBgYGDY6eLyH5/CpEv3GRkYkPzgvmcPI7IkTAGyYgYGBgYACPNX30SbiMMAAAAASUVORK5CYII="/>
+</defs>
+</svg>
