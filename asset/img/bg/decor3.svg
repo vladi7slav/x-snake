@@ -1,10 +1,18 @@
-<svg width="208" height="278" viewBox="0 0 208 278" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="55" height="15" transform="matrix(1 0 0 -1 197 278)" fill="#2C70C0"/>
+<svg width="208" height="348" viewBox="0 0 208 348" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="89" y="148" width="23" height="21" transform="rotate(-90 89 148)" fill="#2C70C0"/>
+<rect x="92" y="223" width="75" height="15" transform="rotate(-90 92 223)" fill="#2C70C0"/>
+<rect x="92" y="136" width="5" height="5" transform="rotate(-90 92 136)" fill="#D9E9D6"/>
+<rect x="102" y="136" width="5" height="5" transform="rotate(-90 102 136)" fill="#D9E9D6"/>
+<rect x="103" y="135" width="2" height="2" transform="rotate(-90 103 135)" fill="black"/>
+<rect x="93" y="135" width="2" height="2" transform="rotate(-90 93 135)" fill="black"/>
+<rect x="107" y="223" width="15" height="90" transform="rotate(-90 107 223)" fill="#2C70C0"/>
+<rect width="55" height="15" transform="matrix(4.37114e-08 1 1 -4.37114e-08 182 223)" fill="#2C70C0"/>
+<rect width="15" height="26" transform="matrix(4.37114e-08 1 1 -4.37114e-08 182 263)" fill="#2C70C0"/>
 <rect width="27" height="31.5763" fill="url(#pattern0)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_433_13" transform="matrix(0.0835351 0 0 0.0714286 -0.00121065 0)"/>
+<use xlink:href="#image0_461_3" transform="matrix(0.0835351 0 0 0.0714286 -0.00121065 0)"/>
 </pattern>
-<image id="image0_433_13" width="12" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAAAAXNSR0IArs4c6QAAAL5JREFUKJFjYEADWfsM/qOLIQMmdMUPV/9ncNWwwamJEZsND1f/Z/i1n5dh940jGPIoApdj0/8zMDAw6C6eyeiqYfO/z1SbAcZH0QBTSAjoLp7JyIismFNPhYGBgYHh+6U7cEXPnt9lkJJUhvNZkBWjK0RnP311F6EBphhZITaAEqz4FD99dRdTAzEAHkrEmJ506T4jC05VSAoxbGBgYGDY6eLyH5/CpEv3GRkYkPzgvmcPI7IkTAGyYgYGBgYACPNX30SbiMMAAAAASUVORK5CYII="/>
+<image id="image0_461_3" width="12" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAAAAXNSR0IArs4c6QAAAL5JREFUKJFjYEADWfsM/qOLIQMmdMUPV/9ncNWwwamJEZsND1f/Z/i1n5dh940jGPIoApdj0/8zMDAw6C6eyeiqYfO/z1SbAcZH0QBTSAjoLp7JyIismFNPhYGBgYHh+6U7cEXPnt9lkJJUhvNZkBWjK0RnP311F6EBphhZITaAEqz4FD99dRdTAzEAHkrEmJ506T4jC05VSAoxbGBgYGDY6eLyH5/CpEv3GRkYkPzgvmcPI7IkTAGyYgYGBgYACPNX30SbiMMAAAAASUVORK5CYII="/>
 </defs>
 </svg>
